@@ -90,8 +90,8 @@ const Home = () => {
                   position="relative"
                   zIndex="999"
                   fontSize={{ base: "md", md: "3xl" }}
-                  fontWeight={300}
-                  color="whiteAlpha.600"
+                  fontWeight={500}
+                  color="whiteAlpha.900"
                 >
                   {"Nutricionista"}
                 </Heading>
@@ -107,8 +107,8 @@ const Home = () => {
                   <Typewriter
                     options={{
                       strings: [                        
-                        "Mestrando em Computação Aplicada em Inteligência Artificial",
-                        "Desenvolvedor Full Stack",
+                        "Bacharel em Nutrição",
+                        "Apaixonada pela Nutrição",
                       ],
                       autoStart: true,
                       loop: true,

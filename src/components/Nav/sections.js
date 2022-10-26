@@ -25,7 +25,7 @@ export const sections = [
   },   
   {
     label: "Linkedin",
-    url: "www.linkedin.com/in/rafaela-soares-souza-kobi-675369236/",
+    url: "https://www.linkedin.com/in/rafaela-soares-souza-kobi-675369236/",
     icon: AiOutlineLinkedin,
   },
   
